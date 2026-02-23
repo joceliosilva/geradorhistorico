@@ -21,26 +21,26 @@ disciplinas_base_parte1 = [
 ]
 
 disciplinas_base_parte2 = [
-    {'bloco': 'Organização do processo de trabalho em Saúde II', 'disciplina': 'Organização do Processo de Trabalho Aplicado à Enfermagem', 'professor': '-', 'ch_teorica': '40', 'ch_pratica': '-', 'media': '', 'situacao': 'APROVADO'},
+    {'bloco': 'Organização do processo de trabalho em Saúde II', 'disciplina': 'Organização do Processo de Trabalho Aplicado à Enfermagem', 'professor': '-', 'ch_teorica': '40', 'ch_pratica': '-', 'media': '-', 'situacao': '-'},
     {'bloco': 'Assistência em Saúde Coletiva', 'disciplina': 'Saúde coletiva', 'professor': 'LUCAS RODRIGUES FEITOSA', 'ch_teorica': '60', 'ch_pratica': '0', 'media': '', 'situacao': 'APROVADO'},
     {'bloco': 'Recuperação e Reablilitação I', 'disciplina': 'Fundamentos da Enfermagem', 'professor': '-', 'ch_teorica': '60', 'ch_pratica': '30', 'media': '', 'situacao': 'APROVADO'},
     {'bloco': 'Recuperação e Reablilitação I', 'disciplina': 'Enfermagem em saúde mental', 'professor': '-', 'ch_teorica': '60', 'ch_pratica': '30', 'media': '', 'situacao': 'APROVADO'},
     {'bloco': 'Recuperação e Reablilitação I', 'disciplina': 'Enfermagem em Clínica Médica', 'professor': '-', 'ch_teorica': '60', 'ch_pratica': '30', 'media': '', 'situacao': 'APROVADO'},
     {'bloco': 'Recuperação e Reablilitação I', 'disciplina': 'Enfermagem em Centro Cirurgico', 'professor': '-', 'ch_teorica': '60', 'ch_pratica': '30', 'media': '', 'situacao': 'APROVADO'},
     {'bloco': 'Recuperação e Reablilitação I', 'disciplina': 'Enfermagem em Saúde da Mulher', 'professor': '-', 'ch_teorica': '60', 'ch_pratica': '30', 'media': '', 'situacao': 'APROVADO'},
-    {'bloco': 'Recuperação e Reablilitação I', 'disciplina': 'Enfermagem em Saúde da Criança e do Adolescente', 'professor': '-', 'ch_teorica': '60', 'ch_pratica': '30', 'media': '', 'situacao': 'APROVADO'},
+    {'bloco': 'Recuperação e Reablilitação I', 'disciplina': 'Enfermagem em Saúde da Criança e do Adolescente', 'professor': '-', 'ch_teorica': '60', 'ch_pratica': '30', 'media': '-', 'situacao': '-'},
 ]
 
 disciplinas_base_parte3 = [
-    {'bloco': 'Organização do processo de trabalho em Saúde III', 'disciplina': 'Principio do Planejamento e Organização da Assistência', 'professor': '-', 'ch_teorica': '40', 'ch_pratica': '-', 'media': '', 'situacao': 'APROVADO'},
-    {'bloco': 'Recuperação e Reablilitação II', 'disciplina': 'Urgência e Emergência', 'professor': '-', 'ch_teorica': '60', 'ch_pratica': '20', 'media': '', 'situacao': 'APROVADO'},
-    {'bloco': 'Recuperação e Reablilitação II', 'disciplina': 'Enfermagem em UTI', 'professor': '-', 'ch_teorica': '60', 'ch_pratica': '20', 'media': '', 'situacao': 'APROVADO'},
-    {'bloco': 'Recuperação e Reablilitação II', 'disciplina': 'Saúde do Idoso', 'professor': '-', 'ch_teorica': '40', 'ch_pratica': '20', 'media': '', 'situacao': 'APROVADO'},
+    {'bloco': 'Organização do processo de trabalho em Saúde III', 'disciplina': 'Principio do Planejamento e Organização da Assistência', 'professor': '-', 'ch_teorica': '40', 'ch_pratica': '-', 'media': '-', 'situacao': '-'},
+    {'bloco': 'Recuperação e Reablilitação II', 'disciplina': 'Urgência e Emergência', 'professor': '-', 'ch_teorica': '60', 'ch_pratica': '20', 'media': '-', 'situacao': '-'},
+    {'bloco': 'Recuperação e Reablilitação II', 'disciplina': 'Enfermagem em UTI', 'professor': '-', 'ch_teorica': '60', 'ch_pratica': '20', 'media': '-', 'situacao': '-'},
+    {'bloco': 'Recuperação e Reablilitação II', 'disciplina': 'Saúde do Idoso', 'professor': '-', 'ch_teorica': '40', 'ch_pratica': '20', 'media': '-', 'situacao': '-'},
 ]
 
 dados_estagio_base = [
-    {'disciplina': 'Estágio Supervisionado I - ESF', 'supervisor': '-', 'ch_teorica': '200', 'ch_pratica': '200', 'media': '-', 'situacao': 'CONCLUÍDO'},
-    {'disciplina': 'Estágio Supervisionado II - Hospitalar', 'supervisor': '-', 'ch_teorica': '200', 'ch_pratica': '200', 'media': '-', 'situacao': 'CONCLUÍDO'},
+    {'disciplina': 'Estágio Supervisionado I - ESF', 'supervisor': '-', 'ch_teorica': '200', 'ch_pratica': '200', 'media': '-', 'situacao': '-'},
+    {'disciplina': 'Estágio Supervisionado II - Hospitalar', 'supervisor': '-', 'ch_teorica': '200', 'ch_pratica': '200', 'media': '-', 'situacao': '-'},
 ]
 
 # ----------------- 2. Funções de Lógica e PDF -----------------
